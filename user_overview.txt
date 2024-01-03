@@ -1,0 +1,45 @@
+Username: admin
+The total number of users registered with task_manager.py is 5.
+The total number of tasks generated and tracked by task_manager.py is 10.
+The total number of tasks assigned to admin is 3.
+The percentage of the total number of tasks assigned to admin is 30.0%.
+The percentage of tasks assigned to admin that have been completed is 10.0%.
+The percentage of tasks still to be completed by admin is 20.0%.
+The percentage of uncompleted and overdue tasks assigned to admin is 10.0%.
+_____________________________________________________
+Username: Andreea
+The total number of users registered with task_manager.py is 5.
+The total number of tasks generated and tracked by task_manager.py is 10.
+The total number of tasks assigned to Andreea is 1.
+The percentage of the total number of tasks assigned to Andreea is 10.0%.
+The percentage of tasks assigned to Andreea that have been completed is 0.0%.
+The percentage of tasks still to be completed by Andreea is 10.0%.
+The percentage of uncompleted and overdue tasks assigned to Andreea is 10.0%.
+_____________________________________________________
+Username: David
+The total number of users registered with task_manager.py is 5.
+The total number of tasks generated and tracked by task_manager.py is 10.
+The total number of tasks assigned to David is 1.
+The percentage of the total number of tasks assigned to David is 10.0%.
+The percentage of tasks assigned to David that have been completed is 0.0%.
+The percentage of tasks still to be completed by David is 10.0%.
+The percentage of uncompleted and overdue tasks assigned to David is 10.0%.
+_____________________________________________________
+Username: Daniel
+The total number of users registered with task_manager.py is 5.
+The total number of tasks generated and tracked by task_manager.py is 10.
+The total number of tasks assigned to Daniel is 3.
+The percentage of the total number of tasks assigned to Daniel is 30.0%.
+The percentage of tasks assigned to Daniel that have been completed is 0.0%.
+The percentage of tasks still to be completed by Daniel is 30.0%.
+The percentage of uncompleted and overdue tasks assigned to Daniel is 10.0%.
+_____________________________________________________
+Username: Sofia
+The total number of users registered with task_manager.py is 5.
+The total number of tasks generated and tracked by task_manager.py is 10.
+The total number of tasks assigned to Sofia is 1.
+The percentage of the total number of tasks assigned to Sofia is 10.0%.
+The percentage of tasks assigned to Sofia that have been completed is 0.0%.
+The percentage of tasks still to be completed by Sofia is 10.0%.
+The percentage of uncompleted and overdue tasks assigned to Sofia is 0.0%.
+_____________________________________________________
